@@ -1,0 +1,79 @@
+{
+    "success": true,
+    "data":
+    {
+        "articleList": [
+        {
+            "id": 1,
+            "title": "人民日报：背熟108个“黄金句式”，英语作文不词穷",
+            "desc": "英语主播皮卡丘： 英语作文不同于中文，中文作文给学生留有比较大的发挥空间，而英语作文只要文章流畅，没有语法错误，主题明确就比较容易拿到高分，也就是说，比起语文作文，英语作文更容易被“套路”。一些英语基础...",
+            "imgUrl": "https://pic2.zhimg.com/50/v2-16148a4670ab16817663c5b941716934_400x224.jpg"
+        },
+        {
+            "id": 2,
+            "title": "可视化拖拽组件库一些技术要点原理分析",
+            "desc": "本文主要对以下技术要点进行分析： 编辑器 自定义组件 拖拽 删除组件、调整图层层级 放大缩小 撤消、重做 组件属性设置 吸附 预览、保存代码 绑定事件 绑定动画 导入 PSD 手机模式 为了让本文更加容易理解，我将以上技…",
+            "imgUrl": "https://pic4.zhimg.com/50/v2-ac55a42f3b0991ca1ec0f7159525d543_400x224.jpg"
+        },
+        {
+            "id": 3,
+            "title": "撰写 SCI 论文时，有什么好用的软件或者技巧吗？",
+            "desc": "InVisor学术科研： 芳老师介绍一波舒服撰写SCI级别论文的好用工具，保证你一秒爱上英文写作，写到上瘾停不下来~ 中文表达流畅翻译，词汇水平快速升级！ 1. Thesaurus 简洁大气的界面，这个网站…",
+            "imgUrl": "https://pic4.zhimg.com/50/v2-e1c29e12c20b405dd79916a5724f4e5e_400x224.jpg"
+        },
+        {
+            "id": 4,
+            "title": "如何自学视频剪辑？",
+            "desc": "李大颖： 这个我有发言权，毕竟我最近也在自学视频剪辑！ 下面分享我剪视频的“一条龙”：从找素材，到学技巧，再到剪视频必备的辅助工具，一次性全都分享给你！ 这是本文的目录（可直接划到感兴趣的分类下哦~）： 一、…",
+            "imgUrl": "https://pic1.zhimg.com/50/v2-3ab2464b398f03990f5806b12cd2bbe6_400x224.jpg"
+        }],
+        "recommendList": [
+        {
+            "id": 1,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },
+        {
+            "id": 4,
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        }],
+        "writerList": [
+        {
+            "id": 1,
+            "imgUrl": "https://upload.jianshu.io/users/upload_avatars/3730494/a5859e59-509d-4d2c-a594-d8d6e5c23d68.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name": "格列柯南",
+            "desc": "写了756.3k字 · 18.1k喜欢"
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://upload.jianshu.io/users/upload_avatars/14715425/e0668349-8c75-43db-8a9d-c388e5f00d0d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name": "简书钻首席小管家",
+            "desc": "写了452.2k字 · 104.6k喜欢"
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name": "董克平日记",
+            "desc": "写了1219.8k字 · 5.4k喜欢"
+        },
+        {
+            "id": 4,
+            "imgUrl": "https://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name": "卢璐说",
+            "desc": "写了1861.4k字 · 33.6k喜欢"
+        },
+        {
+            "id": 5,
+            "imgUrl": "https://upload.jianshu.io/users/upload_avatars/7133325/f4370cf6-cf4d-4839-9b54-87beaa767d48?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name": "Hobbit霍比特人",
+            "desc": "写了371.2k字 · 1.4k喜欢"
+        }]
+    }
+}
